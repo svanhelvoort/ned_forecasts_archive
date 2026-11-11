@@ -1,3 +1,5 @@
+Created with Claude Opus 5.5. First run on 2026-11-11 (or as they call it in Oeteldonk: Elfde van de Elfde)
+
 # NED forecast archive
 
 NED.nl overwrites its forecasts. This repo snapshots every national (NL) forecast
