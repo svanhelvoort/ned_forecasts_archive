@@ -4,7 +4,7 @@ Created with Claude Opus 5.5. First run on 2026-11-11 (or as they call it in Oet
 
 NED.nl overwrites its forecasts. This repo snapshots every national (NL) forecast
 series from the NED API every 6 hours via GitHub Actions and commits each snapshot,
-so forecasts are preserved as issued.
+so forecasts are preserved as issued. It is important to note that NED.nl updates their forecasting model frequently. Model errors from one point in time might not be representitive for the model errors in another point in time.  
 
 ## Output
 `data/YYYY/MM/ned_YYYYMMDDTHHMMZ.csv.gz`, one file per run. Columns are the raw API
